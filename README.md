@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @RHJihan
+- 👋 Hi, I’m Md. Rifat Hasan Jihan. 
+- I use the username *RHJihan* on most of the websites. So, you can simply find about me more by simply doing a Google Search for [RHJihan](https://www.google.com/search?q=rhjihan). You can also visit my portfolio [here](https://rhjihan.github.io/).
