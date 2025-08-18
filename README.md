@@ -1,6 +1,92 @@
 [![](https://github-readme-stats.vercel.app/api?username=RHJihan&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true)](https://github.com/RHJihan/)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=RHJihan&layout=compact&theme=react&hide_border=true)](https://github.com/RHJihan/)
-# 👋 Hi, I’m *Md. Rifat Hasan Jihan*
-I'm a graduate from Khulna University of Engineering and Technology in Mechanical Engineering, currently transitioning into the field of software development. Over time, I’ve built a strong foundation in programming with languages like C, C++, and Java. I’ve also worked with frameworks such as Spring, Spring Boot, and Thymeleaf, and I have experience with databases like PostgreSQL and MySQL. On the front end, I have hands-on experience using HTML, CSS, JavaScript to build functional user interfaces.
 
-My engineering background has taught me how to approach problems analytically and think in a systematic manner. These skills that I now apply to writing clean, scalable code and building efficient applications. I’m particularly drawn to backend development, and I’m excited to join a team where I can continue growing, contributing, and solving meaningful challenges through technology.
+# 👋 Hi, I’m *Md. Rifat Hasan Jihan*
+
+I’m a Mechanical Engineering graduate from Khulna University of Engineering & Technology, currently transitioning into the field of software development.  
+I’ve built strong foundations in programming (C, C++, Java) and developed practical experience with frameworks, databases, and web technologies.  
+I enjoy problem-solving and am particularly drawn to **backend development**, where I focus on writing clean, scalable, and efficient code.  
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+- **Proficient:** C, C++, Java  
+- **Worked with:** SQL, Python, Kotlin, JavaScript, Bash  
+
+### Core CS Skills
+- Data Structures, Algorithms, Graph Theory, Dynamic Programming, Number Theory, Problem Solving  
+
+### Frameworks
+- Spring, Spring Boot, Hibernate  
+
+### Database
+- PostgreSQL, MySQL  
+
+### Web Technologies
+- HTML, CSS, JavaScript, REST API, Thymeleaf  
+
+### Other Technologies
+- JPA, Maven, Gradle, MVC, Git, GNU/Linux, LaTeX  
+
+---
+
+## 🚀 Projects
+
+### [MonoMart](https://github.com/RHJihan/MonoMart)  
+**E-commerce Backend API**  
+*Java, Spring Boot, PostgreSQL, JPA/Hibernate, JWT, Swagger, Maven*  
+
+- Implemented user authentication, role-based access control, product catalog, cart, and order workflows.  
+- Built secure API endpoints and optimized data handling with validation layers and centralized exception management.  
+- Integrated Swagger/OpenAPI docs and application health monitoring.  
+
+---
+
+### [SecureFlow](https://github.com/RHJihan/SecureFlow)  
+**User Management System**  
+*Java, Spring Boot, PostgreSQL, JPA/Hibernate, Thymeleaf, Maven*  
+
+- Built responsive web UI with Thymeleaf templates integrated with Spring Security.  
+- Implemented role-based access control, session management, and BCrypt password hashing.  
+- Added Spring Boot Actuator for health monitoring and metrics.  
+
+---
+
+### [Solarized Facebook](https://github.com/RHJihan/Solarized-Facebook)  
+**Browser Extension — Custom Facebook Theme**  
+*JavaScript, CSS, Browser Extension APIs*  
+
+- Applied Solarized dark color scheme to Facebook for a consistent UI experience.  
+
+---
+
+### [FontScope](https://rhjihan.github.io/font-scope/index.html)  
+**Font Preview & Comparison Tool**  
+*JavaScript, CSS, HTML*  
+
+- Developed a web tool to preview and compare fonts side-by-side in real time.  
+- Designed a responsive, lightweight interface for designers and developers.  
+
+---
+
+## 🌍 Open-source Contributions
+
+### [HeliBoard](https://github.com/Helium314/HeliBoard)  
+**3.6k+ Stars** • *Java, Kotlin, Android SDK*  
+
+- Contributed 29 merged pull requests including bug fixes, new features, and enhanced **Bengali language support**.  
+
+---
+
+### Other Contributions
+- Added Bengali language support to open-source keyboard projects:  
+  [FlorishBoard](https://github.com/florisboard/florisboard),  
+  [FUTO Keyboard](https://github.com/futo-org/futo-keyboard-layouts),  
+  [Simple Keyboard](https://github.com/rkkr/simple-keyboard).  
+- Contributed localization to [KeePassXC](https://keepassxc.org/), improving usability for non-English users.  
+
+---
+
+
