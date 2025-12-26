@@ -2,9 +2,7 @@
 
 # 👋 Hi, I’m *Md. Rifat Hasan Jihan*
 
-I’m a Mechanical Engineering graduate from Khulna University of Engineering & Technology, currently transitioning into the field of software development.  
-I’ve built strong foundations in programming (C, C++, Java) and developed practical experience with frameworks, databases, and web technologies.  
-I enjoy problem-solving and am particularly drawn to **backend development**, where I focus on writing clean, scalable, and efficient code.  
+I’m a  self‑taught and highly motivated Mechanical Engineering graduate from KUET with a strong passion for software development. I’ve built strong foundations in programming (C, C++, Java) and consistent track record of solving complex problems independently. I’ve developed practical experience with frameworks, databases, and web technologies. I enjoy problem-solving and am particularly drawn to **backend development**, where I focus on writing clean, scalable, and efficient code.
 
 ---
 
@@ -12,22 +10,25 @@ I enjoy problem-solving and am particularly drawn to **backend development**, wh
 
 ### Programming Languages
 - **Proficient:** C, C++, Java  
-- **Worked with:** SQL, Python, Kotlin, JavaScript, Bash  
+- **Worked with:** SQL, Python, Kotlin, JavaScript, Bash
 
 ### Core CS Skills
-- Data Structures, Algorithms, Graph Theory, Dynamic Programming, Number Theory, Problem Solving  
+- Data Structures, Algorithms, Graph Theory, Dynamic Programming, Number Theory, Problem Solving
 
 ### Frameworks
-- Spring, Spring Boot, Hibernate  
+- Spring, Spring Boot, Hibernate
 
 ### Database
-- PostgreSQL, MySQL  
+- PostgreSQL, MySQL
 
 ### Web Technologies
-- HTML, CSS, JavaScript, REST API, Thymeleaf  
+- HTML, CSS, JavaScript, REST API, Thymeleaf
+
+### Machine Learning & NLP
+- VADER, NLTK, TF–IDF, Bag of Words, SVM, Naive Bayes, Logistic Regression, Scikit‑learn
 
 ### Other Technologies
-- JPA, Maven, Gradle, MVC, Git, GNU/Linux, LaTeX  
+- JPA, Maven, Gradle, MVC, Git, GNU/Linux, LaTeX, Pandas, NumPy
 
 ---
 
