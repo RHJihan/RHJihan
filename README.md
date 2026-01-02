@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m *Md. Rifat Hasan Jihan*
 
-I’m a  self‑taught and highly motivated Mechanical Engineering graduate from KUET with a strong passion for software development. I’ve built strong foundations in programming (C, C++, Java) and consistent track record of solving complex problems independently. I’ve developed practical experience with frameworks, databases, and web technologies. I enjoy problem-solving and am particularly drawn to **backend development**, where I focus on writing clean, scalable, and efficient code.
+I’m a  self‑taught and highly motivated graduate from KUET with a strong passion for software development. I’ve built strong foundations in programming (C, C++, Java) and consistent track record of solving complex problems independently. I’ve developed practical experience with frameworks, databases, and web technologies. I enjoy problem-solving and am particularly drawn to **backend development**, where I focus on writing clean, scalable, and efficient code.
 
 ---
 
